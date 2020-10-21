@@ -44,7 +44,7 @@ sections:
           et aux professionnels. Des contrats adaptés pour les commerces,
           restaurants, bar, tabac, copropriétés sont proposés
         align: left
-        image: images/feature.svg
+        image: images/logo desinsectisation.webp
         image_position: left
         actions: []
       - title: Feature 3
