@@ -24,7 +24,7 @@ sections:
       # ☎ : 07 54 37 32 54 
     type: content_section
   - type: features_section
-    title: Features
+    title: ''
     features:
       - title: Feature 1
         content: >-
