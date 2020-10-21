@@ -52,7 +52,7 @@ sections:
           Destruction des nids de guêpes, de frelons et frelons asiatiques.
           Intervention sur toutes hauteur. 
         align: left
-        image: images/feature.svg
+        image: images/hornet-nest.jpg
         image_position: right
         actions: []
   - type: blog_feed_section
