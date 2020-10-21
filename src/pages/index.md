@@ -49,9 +49,8 @@ sections:
         actions: []
       - title: Destruction de nids
         content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+          Destruction des nids de guêpes, de frelons et frelons asiatiques.
+          Intervention sur toutes hauteur. 
         align: left
         image: images/feature.svg
         image_position: right
