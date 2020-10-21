@@ -15,6 +15,11 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
+  - title: ''
+    content: >-
+      #### Service d'extermination des nuisibles basé en région parisienne à
+      Franconville dans le 95
+    type: content_section
   - type: features_section
     title: Features
     features:
@@ -69,10 +74,5 @@ sections:
         style: primary
     has_background: true
     background_color: gray
-  - title: ''
-    content: >-
-      #### Service d'extermination des nuisibles basé en région parisienne à
-      Franconville dans le 95
-    type: content_section
 template: advanced
 ---
