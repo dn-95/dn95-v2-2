@@ -5,9 +5,6 @@ sections:
     title: Deratisation Desinsectisation Desinfection
     subtitle: 'Intervention rapide et efficace. 7j/7 de 9h à 22h '
     actions:
-      - label: Learn More
-        url: /features
-        style: primary
       - label: Contact Us
         url: /contact
         style: secondary
