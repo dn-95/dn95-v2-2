@@ -5,7 +5,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Nos tar",
+                "label": "Nos tarifs",
                 "url": "/features",
                 "style": "link"
             },
