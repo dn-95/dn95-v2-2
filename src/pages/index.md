@@ -33,7 +33,7 @@ sections:
           rongeurs, rats et souris. Nous proposons des contrats adaptés pour les
           commerces, restaurants, bar, tabac, copropriétés. 
         align: left
-        image: images/feature.svg
+        image: images/logo-deratisation2.webp
         image_position: right
         actions: []
       - title: Feature 2
