@@ -55,9 +55,5 @@ sections:
         image: images/hornet-nest.jpg
         image_position: right
         actions: []
-  - type: blog_feed_section
-    title: What's New
-    show_recent: true
-    recent_count: 3
 template: advanced
 ---
