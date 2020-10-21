@@ -47,7 +47,7 @@ sections:
         image: images/logo desinsectisation.webp
         image_position: left
         actions: []
-      - title: Feature 3
+      - title: Destruction de nids
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
           eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
