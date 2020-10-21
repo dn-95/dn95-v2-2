@@ -28,9 +28,10 @@ sections:
     features:
       - title: Deratisation
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Nous proposons des traitements rapides et efficaces pour les
+          particuliers ou les professionnels afin d'exterminer toute présence de
+          rongeurs, rats et souris. Nous proposons des contrats adaptés pour les
+          commerces, restaurants, bar, tabac, copropriétés. 
         align: left
         image: images/feature.svg
         image_position: right
