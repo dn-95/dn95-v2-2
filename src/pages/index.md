@@ -71,7 +71,7 @@ sections:
     background_color: gray
   - title: lorem-ipsum
     content: >-
-      ## Service d'extermination des nuisibles basé en région parisienne à
+      #### Service d'extermination des nuisibles basé en région parisienne à
       Franconville dans le 95
     type: content_section
 template: advanced
