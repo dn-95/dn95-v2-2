@@ -38,9 +38,11 @@ sections:
         actions: []
       - title: Desinsectisation
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Nous proposons des traitements rapides et efficaces contre toutes
+          sortes d'insectes tel que : les punaises de lit, Blattes, cafards,
+          puces, frelons et guêpes. Nous proposons nos services aux particuliers
+          et aux professionnels. Des contrats adaptés pour les commerces,
+          restaurants, bar, tabac, copropriétés sont proposés
         align: left
         image: images/feature.svg
         image_position: left
