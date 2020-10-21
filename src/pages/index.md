@@ -6,7 +6,7 @@ sections:
     subtitle: 'Intervention rapide et efficace. 7j/7 de 9h à 22h '
     actions: []
     align: left
-    image: images/hero.svg
+    image: images/DN95-1.png
     image_position: right
     has_background: true
     background:
