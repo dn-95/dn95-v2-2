@@ -6,7 +6,7 @@ categories:
   - src/data/categories/general.yaml
 tags:
   - frelons
-  - JAMstack
+  - larves
 image: images/hornet-nest.jpg
 excerpt: >-
   Destruction d'un nid de frelons asiatiques fin septembre. Nid plein à craquer,
