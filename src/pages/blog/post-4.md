@@ -4,7 +4,7 @@ date: '2019-12-16'
 categories:
   - src/data/categories/category-gjbxa3mjt.json
 tags:
-  - lorem-ipsum
+  - Rats
 excerpt: ''
 template: post
 ---
