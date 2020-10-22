@@ -58,6 +58,7 @@ sections:
   - title: ⭐️ Témoignage de nos clients⭐️
     team:
       - src/data/team/person-bmkdsu9ib.json
+      - src/data/team/person-pw1qkbaw9.json
     type: team_section
 template: advanced
 ---
