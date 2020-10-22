@@ -24,7 +24,7 @@ sections:
 
           *     extermination des rats et souris
         align: left
-        image: images/feature.svg
+        image: images/logo deratisation.webp
         image_position: right
         actions: []
       - title: Feature 2
