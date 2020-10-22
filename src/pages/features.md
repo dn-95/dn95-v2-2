@@ -33,7 +33,7 @@ sections:
         actions: []
       - title: Punaises de lits
         content: >-
-          > # ***De 80 a 280 euros***
+          > ### ***De 80 a 280 euros***
 
 
           #### Le tarif est de 80€ à 140€ maximum par passage pour un studio de
