@@ -6,5 +6,5 @@ categories:
 excerpt: ''
 template: post
 tags:
-  - lorem-ipsum
+  - Rats
 ---
