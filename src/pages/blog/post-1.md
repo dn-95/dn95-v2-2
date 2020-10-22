@@ -8,4 +8,5 @@ template: post
 tags:
   - Rats
   - Deratisation
+image: images/assurance-deratisation-desourisation-.webp
 ---
