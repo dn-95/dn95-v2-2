@@ -26,10 +26,7 @@ sections:
         align: left
         image: images/feature.svg
         image_position: right
-        actions:
-          - label: Learn More
-            url: /about
-            style: primary
+        actions: []
       - title: Feature 2
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
