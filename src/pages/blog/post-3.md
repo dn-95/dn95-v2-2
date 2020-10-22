@@ -5,7 +5,7 @@ author: src/data/team/gordon-norman.yaml
 categories:
   - src/data/categories/general.yaml
 tags:
-  - Stackbit
+  - frelons
   - JAMstack
 image: images/hornet-nest.jpg
 excerpt: >-
