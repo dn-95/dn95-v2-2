@@ -1,7 +1,8 @@
 ---
 title: Nid de frelons asiatique
 date: '2020-10-01'
-categories: []
+categories:
+  - src/data/categories/category-agesqzut8.json
 tags:
   - Frelons asiatiques
   - Nid
