@@ -61,16 +61,5 @@ sections:
       - src/data/team/person-pw1qkbaw9.json
       - src/data/team/person-t1vh2m6et.json
     type: team_section
-  - title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    type: content_section
 template: advanced
 ---
