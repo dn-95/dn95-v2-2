@@ -6,7 +6,7 @@ categories:
 tags:
   - Rats
   - Degats
-excerpt: ''
+excerpt: 'La prolifération des rats peuvent être la cause d’innombrables dégâts. '
 template: post
 image: images/rat_degat.jpg
 ---
