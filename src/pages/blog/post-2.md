@@ -6,7 +6,7 @@ categories:
   - src/data/categories/category-agesqzut8.json
 tags:
   - Chenilles processionnaires
-  - Netlify
+  - Infestation
 image: images/hornet-nest2.jpg
 excerpt: >-
   Quae diligentissime contra Aristonem dicuntur a Chryippo. Videamus igitur
