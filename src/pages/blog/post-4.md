@@ -3,7 +3,6 @@ title: ''
 date: ''
 categories: []
 tags:
-  - JAMstack
   - Sourcebit
 image: images/4.png
 excerpt: >-
