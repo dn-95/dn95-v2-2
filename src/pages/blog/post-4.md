@@ -5,6 +5,7 @@ categories:
   - src/data/categories/category-gjbxa3mjt.json
 tags:
   - Rats
+  - lorem-ipsum
 excerpt: ''
 template: post
 ---
