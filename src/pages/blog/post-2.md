@@ -8,8 +8,8 @@ tags:
   - Infestation
 image: images/hornet-nest2.jpg
 excerpt: >-
-  Quae diligentissime contra Aristonem dicuntur a Chryippo. Videamus igitur
-  sententias eorum, tum ad verba redeamus. Levatio igitur vitiorum magna.
+  les poils de cette chenille sont très urticants et néfaste pour les Hommes et
+  les animaux.
 template: post
 ---
 Si vous constatez des nids de chenilles processionnaires dans vos arbres alors il est vraiment temps de piégé pour éviter une infestation ce printemps. Surtout que les poils de cette chenille sont très urticants et néfaste pour les Hommes et les animaux.
