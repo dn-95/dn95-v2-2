@@ -2,25 +2,36 @@
 title: Privacy and Terms
 template: page
 ---
-#### Directeur de la publication
+#### Responsable de la publication
 
 M. Damien Mokhtari
+
 Destruction Nuisibles 95
+
 SIRET 79862446600032
+
 Site Web : http://www.destruction-nuisibles95.fr
 
 5 rue des Petits Champs Tel. +33 (0)7 54 37 32 54
 
 ### Conception du site internet
 
-AmphiBee Email : hello@amphibee.fr Tél : +33 (0)7 61 00 58 23
-Site Web : https://amphibee.fr
+Artisan-Solution
+
+Email : contact@artisan-solution.com 
+
+Tél : +33 (0)4 56 45 24 34
+
+Site Web : https://artisan-solution.com
 
 ### Hébergement
 
 Netlify
+
 610 22nd Street, Suite 315,
-San Francisco, CA 94107 Site web : https://www.netlify.com
+San Francisco, CA 94107 
+
+Site web : https://www.netlify.com
 
 
 ### Clause de non responsabilité :
