@@ -3,7 +3,7 @@ title: ''
 date: '2020-10-04'
 categories:
   - src/data/categories/category-gjbxa3mjt.json
-excerpt: ''
+excerpt: les rats et souris
 template: post
 tags:
   - Rats
