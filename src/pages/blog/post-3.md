@@ -7,7 +7,7 @@ categories:
 tags:
   - Stackbit
   - JAMstack
-image: images/3.png
+image: images/hornet-nest.jpg
 excerpt: >-
   Destruction d'un nid de frelons asiatiques fin septembre. Nid plein à craquer,
   larves, couvain.
