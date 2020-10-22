@@ -25,7 +25,7 @@
                 "style": "primary"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Accueil",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "new_window": false,
