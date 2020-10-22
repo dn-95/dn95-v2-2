@@ -1,7 +1,8 @@
 ---
 title: ''
 date: ''
-categories: []
+categories:
+  - src/data/categories/category-gjbxa3mjt.json
 excerpt: ''
 template: post
 ---
