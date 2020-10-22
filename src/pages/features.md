@@ -33,9 +33,17 @@ sections:
         actions: []
       - title: Punaises de lits
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          #### Le tarif est de 80€ à 140€ maximum par passage pour un studio de
+          15-20 m2 et entre 220€ et 280€ pour une maison de 150 m2. 2 passages
+          sont nécessaires entre 8 et 15 jours d'intervalles pour traiter les
+          punaises de lits par pulvérisation. Garantie satisfait ou remboursé.
+
+
+          *     Extermination punaises de lits
+
+          *     Traitement par pulvérisation
+
+          *     Utilisation de de différentes matières actives
         align: left
         image: images/feature.svg
         image_position: right
