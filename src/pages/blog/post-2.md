@@ -1,6 +1,6 @@
 ---
 title: 'Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
-date: ''
+date: '0002-02-25'
 author: src/data/team/miles-tone.yaml
 categories:
   - src/data/categories/category-agesqzut8.json
