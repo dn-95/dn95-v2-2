@@ -2,7 +2,6 @@
 title: Destruction nid de frelons en automne
 date: '2020-09-30'
 categories:
-  - src/data/categories/general.yaml
   - src/data/categories/category-agesqzut8.json
 tags:
   - frelons
