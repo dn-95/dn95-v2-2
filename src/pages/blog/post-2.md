@@ -8,7 +8,7 @@ tags:
   - Infestation
 image: images/hornet-nest2.jpg
 excerpt: >-
-  les poils de cette chenille sont très urticants et néfaste pour les Hommes et
+  Les poils de cette chenille sont très urticants et néfaste pour les Hommes et
   les animaux.
 template: post
 ---
