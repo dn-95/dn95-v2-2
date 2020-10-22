@@ -3,7 +3,7 @@ title: Rats et souris
 date: '2020-10-04'
 categories:
   - src/data/categories/category-gjbxa3mjt.json
-excerpt: les rats et souris semtent aue l'hiver approche
+excerpt: les rats et souris semtent q\ue l'hiver approche
 template: post
 tags:
   - Rats
