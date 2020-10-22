@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Nos tarifs
 sections:
   - type: hero_section
     title: Features
