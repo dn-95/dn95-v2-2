@@ -1,6 +1,6 @@
 ---
 title: Destruction nid de frelons en automne
-date: '2020-05-28'
+date: ''
 author: src/data/team/gordon-norman.yaml
 categories:
   - src/data/categories/general.yaml
