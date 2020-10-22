@@ -1,5 +1,5 @@
 ---
-title: Privacy and Terms
+title: 'Mentions '
 template: page
 ---
 #### Responsable de la publication
