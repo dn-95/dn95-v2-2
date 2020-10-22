@@ -53,7 +53,7 @@ sections:
 
           *     Utilisation de de différentes matières actives
         align: left
-        image: images/feature.svg
+        image: images/istockphoto-1030358908-612x612.webp
         image_position: right
         actions:
           - label: Learn More
