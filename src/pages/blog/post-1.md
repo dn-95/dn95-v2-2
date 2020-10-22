@@ -4,9 +4,7 @@ date: '2020-04-16'
 categories:
   - src/data/categories/general.yaml
 image: images/1.png
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
-  magnitudine obruebantur. Duo Reges: constructio interrete.
+excerpt: ''
 template: post
 ---
 
