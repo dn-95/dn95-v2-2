@@ -1,6 +1,6 @@
 ---
 title: ''
-date: '2020-05-30'
+date: ''
 author: src/data/team/dianne-ameter.yaml
 categories:
   - src/data/categories/tutorials.yaml
