@@ -3,7 +3,7 @@ title: Nos tarifs
 sections:
   - type: hero_section
     title: Features
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: Exemple de tarifs pour les différents services
     align: center
   - type: features_section
     features:
