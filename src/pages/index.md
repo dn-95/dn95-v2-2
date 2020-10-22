@@ -61,7 +61,7 @@ sections:
       - src/data/team/person-pw1qkbaw9.json
       - src/data/team/person-t1vh2m6et.json
     type: team_section
-  - title: ''
+  - title: Destruction Nuisibles 95
     subtitle: ''
     actions: []
     align: left
