@@ -3,7 +3,7 @@ title: Nos tarifs
 sections:
   - type: hero_section
     title: Exemple de tarifs pour les différents services
-    subtitle: ''
+    subtitle: Garantie satisfait ou remboursé.
     align: center
   - type: features_section
     features:
