@@ -1,5 +1,5 @@
 ---
-title: 'Mentions '
+title: Mentions legales
 template: page
 ---
 #### Responsable de la publication
