@@ -3,7 +3,7 @@ title: Nos tarifs
 sections:
   - type: hero_section
     title: Exemple de tarifs pour les différents services
-    subtitle: Exemple de tarifs pour les différents services
+    subtitle: ''
     align: center
   - type: features_section
     features:
