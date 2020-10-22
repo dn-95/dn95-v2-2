@@ -55,5 +55,8 @@ sections:
         image: images/hornet-nest.jpg
         image_position: right
         actions: []
+  - title: lorem-ipsum
+    team: []
+    type: team_section
 template: advanced
 ---
