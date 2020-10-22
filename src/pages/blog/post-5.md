@@ -6,7 +6,7 @@ categories:
 tags:
   - Frelons asiatiques
   - Nid
-image: images/hornet-nest2.jpg
+image: images/hornet-nest3.jpg
 excerpt: Butinage en automne ! Révélateur de l’invasion !
 template: post
 ---
