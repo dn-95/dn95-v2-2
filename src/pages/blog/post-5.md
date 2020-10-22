@@ -1,8 +1,7 @@
 ---
 title: Nid de frelons asiatique
 date: '2020-10-01'
-categories:
-  - src/data/categories/tutorials.yaml
+categories: []
 tags:
   - Stackbit
   - Netlify
