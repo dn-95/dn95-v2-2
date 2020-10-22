@@ -1,7 +1,8 @@
 ---
 title: Degats de rats
 date: '2019-12-16'
-categories: []
+categories:
+  - src/data/categories/category-gjbxa3mjt.json
 tags: []
 excerpt: ''
 template: post
