@@ -5,6 +5,13 @@
         "has_nav": true,
         "nav_links": [
             {
+                "label": "Accueil",
+                "url": "/",
+                "style": "link",
+                "new_window": false,
+                "type": "action"
+            },
+            {
                 "label": "Nos tarifs",
                 "url": "/features",
                 "style": "link"
