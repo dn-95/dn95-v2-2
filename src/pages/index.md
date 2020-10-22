@@ -56,7 +56,8 @@ sections:
         image_position: right
         actions: []
   - title: ⭐️ Témoignage de nos clients⭐️
-    team: []
+    team:
+      - src/data/team/person-bmkdsu9ib.json
     type: team_section
 template: advanced
 ---
