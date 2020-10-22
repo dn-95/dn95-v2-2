@@ -7,4 +7,5 @@ excerpt: ''
 template: post
 tags:
   - Rats
+  - lorem-ipsum
 ---
