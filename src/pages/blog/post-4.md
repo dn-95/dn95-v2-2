@@ -2,7 +2,6 @@
 title: ''
 date: ''
 categories:
-  - src/data/categories/tutorials.yaml
   - src/data/categories/news.yaml
 tags:
   - JAMstack
