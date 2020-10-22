@@ -35,24 +35,13 @@ Site web : https://www.netlify.com
 
 
 ### Clause de non responsabilité :
-#### Renvois et liens
-
-En ce qui concerne les renvois directs ou indirects ("liens") vers des pages Internet tierces situées hors du domaine de responsabilité de Sensor Instruments France , la responsabilité de celui-ci ne pourrait être engagée que s’il avait pris connaissance de leur contenu auparavant et que s’il lui avait été techniquement possible d’empêcher leur utilisation si elles contenaient des informations illicites.
-
-Par conséquent, Sensor Instruments France déclare expressément que les pages reliées aux liens indiqués ne contenaient pas d’informations illégales au moment où le webmestre a placé les liens. Par ailleurs, Sensor Instruments France n’a aucune influence sur l’évolution actuelle et future, ni sur les contenus des pages reliées aux liens. C’est pourquoi il se distance explicitement du contenu de toutes les pages reliées qui ont fait l’objet de modifications après la mise en place des liens. Cette déclaration s’applique à tous les renvois et tous les liens indiqués dans le cadre de son offre sur Internet ainsi qu’à toutes les informations apportées par d’autres personnes dans les livres des visiteurs. En cas de contenu illégal, erroné ou incomplet et notamment en cas de dommages résultant de l’exploitation ou la non exploitation de ce type d’informations, seul l’auteur de la page à laquelle conduit le renvoi est responsable, et non la personne qui a uniquement renvoyé à la publication correspondante en indiquant un lien.
-
 #### Droits d’auteur et de marque
 
-Sensor Instruments France s’efforce de respecter tous les droits d’auteur des graphiques, des documents audio, des séquences vidéo et des textes dans toutes les publications, d’utiliser ses propres graphiques, documents audio, séquences vidéo et textes ou d’avoir recours à des graphiques, documents audio, séquences vidéo et textes non sous licence. Toutes les marques et marques de fabrique citées dans le cadre de l’offre Internet et éventuellement protégées par tiers sont soumises à la législation en vigueur sur les droits de marque ainsi qu’aux droits de propriété du propriétaire enregistré, sans restriction aucune. Le fait de citer une marque ne signifie pas que cette marque n’est pas protégée par les droits d’un tiers !
+Destruction Nuisibles 95 s’efforce de respecter tous les droits d’auteur des graphiques, et des textes dans toutes les publications, d’utiliser ses propres graphiques, et textes ou d’avoir recours à des graphiques, et textes non sous licence. 
 
-L’auteur des pages détient tous les droits d’auteur des objets publiés qu’il a lui-même créés. Toute reproduction ou utilisation de ces graphiques, documents audio, séquences vidéo et textes dans d’autres publications électroniques ou imprimées est strictement interdite sans l’autorisation expresse de Sensor Instruments France.
+L’auteur des pages détient tous les droits d’auteur des objets publiés qu’il a lui-même créés. Toute reproduction ou utilisation de ces graphiques, et textes dans d’autres publications électroniques ou imprimées est strictement interdite sans l’autorisation expresse de Destruction Nuisibles 95
 
-#### Contenu de l’offre en ligne
-
-Sensor Instruments France n’assure aucune garantie quant à l’actualité, l’exactitude, l’intégralité ou la qualité des informations mises à disposition. Tous recours imputant la responsabilité de Sensor Instruments France et ayant trait à des dommages de nature matérielle ou morale dus à l’utilisation ou non utilisation des informations présentées ou de l’exploitation de données erronées ou incomplètes, sont fondamentalement exclus tant qu’il n’a pas été prouvé que Sensor Instruments France s’est rendu coupable de faute avec préméditation ou par négligence.
-
-Toutes les offres n’engagent aucunement la responsabilité de Sensor Instruments France. Sensor Instruments France se réserve expressément le droit de modifier, de compléter ou de supprimer certaines parties des pages ou l’offre entière, ou encore de suspendre temporairement ou définitivement la publication, sans avis préalable.
-Politique de confidentialité / protection des données
+#### Donnees personnelles
 
 Les données personnelles telles que nom, adresse, numéro de téléphone ou adresse E-mail, mises à notre disposition dans le cadre de nos activités Internet sont enregistrées et gérées conformément aux lois nationales de protection et de sécurité des données. Vous décidez vous-même si vous souhaitez ou non nous communiquer vos données personnelles par ex. dans le cadre d’une demande d’offre ou de n’importe quelle autre opération. En général, nous vous envoyons uniquement vos données par E-mail à l’adresse que vous nous avez indiquée, et ne les enregistrons pas. Nous n’utilisons vos données personnelles que pour répondre à votre demande d’offre, traiter votre commande ou vous faire parvenir une offre ou des informations spéciales. Afin d’assurer le suivi de notre clientèle, il se peut toutefois que nous soyons obligés d’enregistrer et de traiter vos données personnelles pour pouvoir vous faire parvenir nos offres.
 
