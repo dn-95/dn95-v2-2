@@ -9,6 +9,9 @@ sections:
     features:
       - title: Dératisation appartement ou maison
         content: >-
+          # Des 80 a 180 euros
+
+
           #### Tarif d'une dératisation à partir de 80€ pour un appartement et
           entre 150€ & 250€ pour une maison de 100m2 Bouchage des trous d'accès
           et traitement efficace intérieur et extérieur compris.
