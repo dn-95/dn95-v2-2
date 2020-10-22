@@ -1,6 +1,6 @@
 ---
 title: Degats de rats
-date: ''
+date: '0002-12-16'
 categories: []
 tags: []
 excerpt: ''
