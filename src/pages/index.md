@@ -62,7 +62,7 @@ sections:
       - src/data/team/person-t1vh2m6et.json
     type: team_section
   - title: Destruction Nuisibles 95
-    subtitle: '5 rue des petits champs, 95130 Franconville'
+    subtitle: ''
     actions: []
     align: left
     image_position: left
