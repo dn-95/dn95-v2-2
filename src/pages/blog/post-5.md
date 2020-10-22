@@ -1,6 +1,6 @@
 ---
 title: Nid de frelons asiatique
-date: '2020-01-10'
+date: '2020-10-10'
 author: src/data/team/gordon-norman.yaml
 categories:
   - src/data/categories/tutorials.yaml
