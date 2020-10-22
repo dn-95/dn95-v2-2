@@ -1,8 +1,7 @@
 ---
 title: ''
 date: ''
-categories:
-  - src/data/categories/general.yaml
+categories: []
 excerpt: ''
 template: post
 ---
