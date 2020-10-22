@@ -1,8 +1,7 @@
 ---
 title: ''
 date: ''
-categories:
-  - src/data/categories/news.yaml
+categories: []
 tags:
   - JAMstack
   - Sourcebit
