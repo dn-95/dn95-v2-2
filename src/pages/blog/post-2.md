@@ -1,5 +1,5 @@
 ---
-title: 'Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
+title: Nid de chenilles processionnaires
 date: '2020-01-25'
 categories:
   - src/data/categories/category-agesqzut8.json
