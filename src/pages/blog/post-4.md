@@ -8,4 +8,5 @@ tags:
   - Degats
 excerpt: ''
 template: post
+image: images/rat_degat.jpg
 ---
