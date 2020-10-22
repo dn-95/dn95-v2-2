@@ -55,9 +55,6 @@ sections:
         align: left
         image: images/istockphoto-1030358908-612x612.webp
         image_position: right
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
+        actions: []
 template: advanced
 ---
