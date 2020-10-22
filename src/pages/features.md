@@ -33,6 +33,9 @@ sections:
         actions: []
       - title: Punaises de lits
         content: >-
+          > # ***De 80 a 280 euros***
+
+
           #### Le tarif est de 80€ à 140€ maximum par passage pour un studio de
           15-20 m2 et entre 220€ et 280€ pour une maison de 150 m2. 2 passages
           sont nécessaires entre 8 et 15 jours d'intervalles pour traiter les
