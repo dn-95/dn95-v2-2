@@ -5,7 +5,7 @@ author: src/data/team/miles-tone.yaml
 categories:
   - src/data/categories/category-agesqzut8.json
 tags:
-  - Jamstack
+  - Chenilles processionnaires
   - Netlify
 image: images/hornet-nest2.jpg
 excerpt: >-
