@@ -70,7 +70,7 @@
             },
             {
                 "label": "Google",
-                "url": "https://g.page",
+                "url": "https://g.page/",
                 "style": "link",
                 "new_window": false,
                 "type": "action"
