@@ -70,7 +70,7 @@
             },
             {
                 "label": "Google",
-                "url": "lorem-ipsum",
+                "url": "https://",
                 "style": "link",
                 "new_window": false,
                 "type": "action"
