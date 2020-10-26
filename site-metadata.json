@@ -53,7 +53,7 @@
             {
                 "label": "Nous trouver sur Google",
                 "url": "https://g.page/Nuisibles95/",
-                "style": "link",
+                "style": "primary",
                 "new_window": false,
                 "type": "action"
             }
