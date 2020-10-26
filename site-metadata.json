@@ -48,25 +48,14 @@
                 "style": "link"
             }
         ],
-        "has_social": false,
+        "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "link",
-                "new_window": true
-            },
-            {
-                "label": "GitHub",
-                "url": "https://github.com/",
-                "style": "link",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "link",
-                "new_window": true
+                "label": "Nous trouver sur Google",
+                "url": "https://g.page/Nuisibles95/",
+                "style": "primary",
+                "new_window": false,
+                "type": "action"
             }
         ],
         "content": "&copy; Destructions Nuisibles 95. All rights reserved. ",
