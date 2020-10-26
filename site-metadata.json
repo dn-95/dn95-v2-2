@@ -69,7 +69,7 @@
                 "new_window": true
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Google",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "new_window": false,
