@@ -58,7 +58,7 @@ sections:
         actions: []
       - title: Destruction Nid De Frelon
         content: >-
-          > ### ***De 80,00 a 250,00 €***
+          > ### ***De 80 a 250 €***
 
 
           **Tarif pour la destruction d'un nid de guêpe 80€ à 100€ nid à moins
