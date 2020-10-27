@@ -56,5 +56,31 @@ sections:
         image: images/istockphoto-1030358908-612x612.webp
         image_position: right
         actions: []
+      - title: Destruction Nid De Frelon
+        content: >-
+          > ### ***De 80 a 250 €***
+
+
+          **Tarif pour la destruction d'un nid de guêpe 80€ à 100€ nid à moins
+          de 2m 100€ à 150€ nid entre 2m et 6m 150€ à 200€ nid entre 6m et 10m
+          200€ à 250€ nid au dessus de 10m ou besoin de retirer les tuiles sur
+          le toit**
+        align: left
+        image_position: right
+        actions: []
+        type: feature
+        image: images/hornet.jpg
+      - title: ' Désinsectisation Blatte Cafard'
+        content: >-
+          > ### ***De 90 a 140 Euros***
+
+
+          **Tarif d'un traitement contre les cafards dans un appartement entier
+          ou au minimum une cuisine**
+        align: left
+        image_position: right
+        actions: []
+        type: feature
+        image: images/blattes 4.webp
 template: advanced
 ---
