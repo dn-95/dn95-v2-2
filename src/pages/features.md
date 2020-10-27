@@ -68,5 +68,6 @@ sections:
         image_position: left
         actions: []
         type: feature
+        image: images/hornet.jpg
 template: advanced
 ---
