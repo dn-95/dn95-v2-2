@@ -70,7 +70,7 @@ sections:
         actions: []
         type: feature
         image: images/hornet.jpg
-      - title: lorem-ipsum
+      - title: ' Désinsectisation Blatte Cafard'
         content: >-
           ## Lorem ipsum
 
