@@ -65,7 +65,7 @@ sections:
           à 250€ nid au dessus de 10m ou besoin de retirer les tuiles sur le
           toit
         align: left
-        image_position: left
+        image_position: right
         actions: []
         type: feature
         image: images/hornet.jpg
