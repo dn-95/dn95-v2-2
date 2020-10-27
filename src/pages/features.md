@@ -81,5 +81,6 @@ sections:
         image_position: left
         actions: []
         type: feature
+        image: images/blattes 4.webp
 template: advanced
 ---
