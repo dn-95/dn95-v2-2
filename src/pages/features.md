@@ -72,14 +72,11 @@ sections:
         image: images/hornet.jpg
       - title: ' Désinsectisation Blatte Cafard'
         content: >-
-          ## Lorem ipsum
+          > ### ***De 90 a 140 Euros***
 
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          **Tarif d'un traitement contre les cafards dans un appartement entier
+          ou au minimum une cuisine**
         align: left
         image_position: left
         actions: []
