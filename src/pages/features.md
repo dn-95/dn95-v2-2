@@ -78,7 +78,7 @@ sections:
           **Tarif d'un traitement contre les cafards dans un appartement entier
           ou au minimum une cuisine**
         align: left
-        image_position: left
+        image_position: right
         actions: []
         type: feature
         image: images/blattes 4.webp
