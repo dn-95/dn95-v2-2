@@ -56,7 +56,7 @@ sections:
         image: images/istockphoto-1030358908-612x612.webp
         image_position: right
         actions: []
-      - title: lorem-ipsum
+      - title: Destruction Nid De Frelon
         content: >-
           ## Lorem ipsum
 
