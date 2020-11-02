@@ -6,15 +6,10 @@ sections:
     align: center
   - type: contact_section
   - title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |-
+      > 5 rue des petits champs, 95130 Franconville
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      **☎ : 07 54 37 32 54**
     type: content_section
 template: advanced
 ---
