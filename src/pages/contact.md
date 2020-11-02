@@ -6,7 +6,7 @@ sections:
     align: center
   - type: contact_section
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: '5 rue des petits champs, 95130 Franconville'
     actions: []
     align: left
     image_position: left
