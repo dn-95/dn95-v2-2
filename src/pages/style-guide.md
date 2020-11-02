@@ -8,7 +8,15 @@ excerpt: Tarifs dératisation / désinsectisation pour les professionnels
 
 <div class="responsive-table">
   <table>
-      <caption>Contrat annuel comprenant 3 passages incluant :</caption>
+      <caption>Contrat annuel comprenant 3 passages incluant :
+		
+*     Inspection du site
+*     Mise en place de postes à appâts sécurisés contenant raticide et rondenticide
+*     Application gel anti cafards de type goliath (lors de chaque passages)
+*     Rapport d’intervention
+*     Suivi
+
+		</caption>
     <thead>
       <tr>
         <th>Superficie</th>
