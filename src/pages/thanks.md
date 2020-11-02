@@ -1,6 +1,6 @@
 ---
 title: Merci
-excerpt: lorem-ipsum
+excerpt: 'Nous revenons '
 template: page
 ---
 ## Lorem ipsum
