@@ -16,12 +16,14 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - title: ''
-    content: >-
+    content: >+
       #### Service d'extermination des nuisibles basé en région parisienne à
       Franconville dans le 95
 
+      ---
 
-      # ☎ : tel:07-54-37-32-54 
+      # ☎ : [07 54 37 32 54](tel://0754373254)
+
     type: content_section
   - type: features_section
     title: ''
