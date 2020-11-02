@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Deratisation Desinsectisation Desinfection
+    title: Dératisation Désinsectisation Désinfection
     subtitle: 'Intervention rapide et efficace. 7j/7 de 9h à 22h '
     actions: []
     align: left
