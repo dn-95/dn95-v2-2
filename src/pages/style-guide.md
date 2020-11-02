@@ -4,7 +4,7 @@ template: page
 excerpt: Tarifs dératisation / désinsectisation pour les professionnels
 ---
 
-### Contrat de dératisation désinsectisation pour restaurant, bar, café
+##### Contrat de dératisation désinsectisation pour restaurant, bar, café
 
 <div class="responsive-table">
   <table>
@@ -47,7 +47,7 @@ excerpt: Tarifs dératisation / désinsectisation pour les professionnels
 </div>
 
 
-### Contrat de dératisation désinsectisation pour restaurant, boulangerie, traiteur
+##### Contrat de dératisation désinsectisation pour restaurant, boulangerie, traiteur
 
 <div class="responsive-table">
   <table>
