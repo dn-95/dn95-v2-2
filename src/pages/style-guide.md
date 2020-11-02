@@ -1,5 +1,5 @@
 ---
-title: Services pour les professionnels
+title: Nos tarifs pour les professionnels
 template: page
 ---
 ## Contrat de dératisation désinsectisation pour restaurant, bar, café
