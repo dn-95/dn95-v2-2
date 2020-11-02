@@ -6,9 +6,8 @@ excerpt: Tarifs dératisation / désinsectisation pour les professionnels
 
 ##### Contrat de dératisation désinsectisation pour restaurant, bar, café
 
-<div class="responsive-table">
-  <table>
-      <caption>Contrat annuel comprenant 3 passages incluant :
+
+*** Contrat annuel comprenant 3 passages incluant :***
 		
 *     Inspection du site
 *     Mise en place de postes à appâts sécurisés contenant raticide et rondenticide
@@ -16,6 +15,8 @@ excerpt: Tarifs dératisation / désinsectisation pour les professionnels
 *     Rapport d’intervention
 *     Suivi
 
+<div class="responsive-table">
+  <table>
 		</caption>
     <thead>
       <tr>
