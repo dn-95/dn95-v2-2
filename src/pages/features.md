@@ -83,44 +83,32 @@ sections:
         type: feature
         image: images/blattes 4.webp
       - title: lorem-ipsum
-        content: >-
+        content: |
           ## Tables
-
 
           <div class="responsive-table">
             <table>
                 <caption>Table with thead, tfoot, and tbody</caption>
               <thead>
                 <tr>
-                  <th>Header content 1</th>
-                  <th>Header content 2</th>
+                  <th>Superficie</th>
+                  <th>Tarif HT</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <td>Body content 1</td>
-                  <td>Body content 2</td>
+                  <td>0 à 30 m2</td>
+                  <td>430,00 €</td>
                 </tr>
               </tbody>
               <tfoot>
                 <tr>
-                  <td>Footer content 1</td>
-                  <td>Footer content 2</td>
+                  <td>31 à 60 m2</td>
+                  <td>580,00 €</td>
                 </tr>
               </tfoot>
             </table>
           </div>
-
-
-          <div class="note"><strong>Note:</strong> Both of the features you used
-          above are parts of the Document Object Model (DOM) API, which allows
-          you to manipulate documents.</div>
-
-
-          <div class="important"><strong>Important:</strong> In this article,
-          try entering the example code lines into your JavaScript console to
-          see what happens. For more details on JavaScript consoles, see
-          Discover browser developer tools.</div>
         align: left
         image_position: left
         actions: []
