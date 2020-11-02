@@ -6,7 +6,7 @@ template: page
 
 <div class="responsive-table">
   <table>
-      <caption>Table with thead, tfoot, and tbody</caption>
+      <caption>Contrat annuel comprenant 3 passages passages incluant :</caption>
     <thead>
       <tr>
         <th>Superficie</th>
