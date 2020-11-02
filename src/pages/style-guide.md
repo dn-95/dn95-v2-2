@@ -6,9 +6,17 @@ excerpt: Tarifs dératisation / désinsectisation pour les professionnels
 
 ##### Contrat de dératisation désinsectisation pour restaurant, bar, café
 
+
+***Contrat annuel comprenant 3 passages incluant :***
+*     Inspection du site
+*     Mise en place de postes à appâts sécurisés contenant raticide et rondenticide
+*     Application gel anti cafards de type goliath (lors de chaque passages)
+*     Rapport d’intervention
+*     Suivi
+
 <div class="responsive-table">
   <table>
-      <caption>Contrat annuel comprenant 3 passages incluant :</caption>
+		</caption>
     <thead>
       <tr>
         <th>Superficie</th>
@@ -46,13 +54,24 @@ excerpt: Tarifs dératisation / désinsectisation pour les professionnels
   </table>
 </div>
 
-<br/>
+---
+---
 
 ##### Contrat de dératisation désinsectisation pour restaurant, boulangerie, traiteur
 
+***Contrat annuel comprenant 4 passages incluant :***
+
+*     Inspection du site
+*     Mise en place de postes à appâts sécurisés contenant raticide et rondenticide
+*     Recherche et traitement infiltrations par mousse raticide
+*     Recherche et traitement infiltrations
+*     Rebouchage des infiltrations rechargement et/ou remplacement des postes sécurisés
+*     Application gel anti cafards de type goliath (lors de chaque passages)
+*     Rapport d’intervention
+*     Suivi
+
 <div class="responsive-table">
   <table>
-      <caption>Contrat annuel comprenant 4 passages incluant :</caption>
     <thead>
       <tr>
         <th>Superficie</th>
