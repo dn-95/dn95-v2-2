@@ -1,6 +1,6 @@
 ---
 title: 'Merci '
-excerpt: 'Votre message a été bien reçu '
+excerpt: Votre message a été bien reçu
 template: page
 ---
 #### Votre message a été bien reçu 
