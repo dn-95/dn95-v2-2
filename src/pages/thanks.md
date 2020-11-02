@@ -1,6 +1,6 @@
 ---
 title: Merci
-excerpt: 'Nous revenons '
+excerpt: 'Votre message a été bien reçu '
 template: page
 ---
 ## Lorem ipsum
