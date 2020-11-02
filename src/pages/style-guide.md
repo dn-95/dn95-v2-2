@@ -3,7 +3,8 @@ title: Nos tarifs pour les professionnels
 template: page
 excerpt: Tarifs dératisation / désinsectisation pour les professionnels
 ---
-## Contrat de dératisation désinsectisation pour restaurant, bar, café
+
+### Contrat de dératisation désinsectisation pour restaurant, bar, café
 
 <div class="responsive-table">
   <table>
@@ -36,3 +37,4 @@ excerpt: Tarifs dératisation / désinsectisation pour les professionnels
     </tfoot>
   </table>
 </div>
+
