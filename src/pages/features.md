@@ -82,11 +82,5 @@ sections:
         actions: []
         type: feature
         image: images/blattes 4.webp
-      - title: lorem-ipsum
-        content: "## Contrat de dératisation désinsectisation pour restaurant, bar, café\n\n<div class=\"responsive-table\">\n  <table>\n      <caption>Table with thead, tfoot, and tbody</caption>\n    <thead>\n      <tr>\n        <th>Superficie</th>\n        <th>Tarif HT</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr>\n        <td>0 à 30 m2</td>\n        <td>430,00 €</td>\n      </tr>\n\t\t\t      <tr>\n        <td>31 à 60 m2</td>\n        <td>580,00 €</td>\n      </tr>\n\t\t\t      <tr>\n        <td>60 à 120 m2</td>\n        <td>680,00 €</td>\n      </tr>\n    </tbody>\n    <tfoot>\n      <tr>\n        <td>Plus de 120 m2</td>\n        <td>700,00 €</td>\n      </tr>\n    </tfoot>\n  </table>\n</div>\n"
-        align: left
-        image_position: left
-        actions: []
-        type: feature
 template: advanced
 ---
