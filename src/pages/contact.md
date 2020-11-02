@@ -5,7 +5,7 @@ sections:
     title: Contact
     align: center
   - type: contact_section
-  - title: lorem-ipsum
+  - title: Destruction Nuisibles 95
     content: |-
       > 5 rue des petits champs, 95130 Franconville
 
