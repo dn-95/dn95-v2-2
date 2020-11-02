@@ -2,7 +2,12 @@
 title: Contact
 sections:
   - title: Destruction Nuisibles 95
-    content: "---\n###### 5 rue des petits champs, 95130 Franconville\n\n## ☎ : 07 54 37 32 54\n\n\t"
+    content: |-
+      ---
+      ###### 5 rue des petits champs, 95130 Franconville
+
+      ## ☎ : 07 54 37 32 54
+      ---
     type: content_section
   - type: hero_section
     title: Contact
