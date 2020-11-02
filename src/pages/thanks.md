@@ -1,5 +1,5 @@
 ---
-title: Merci
+title: 'Merci '
 excerpt: 'Votre message a été bien reçu '
 template: page
 ---
